@@ -58,6 +58,9 @@ Este proyecto automatiza pruebas funcionales para una API REST utilizando el fra
 ---
 
 ## ¿Cómo ejecutar las pruebas?
+1. Clonar el repositorio
+
+git clone https://github.com/riomatter/retoBackEndSoaint.git
 
 ### Desde IntelliJ IDEA:
 
