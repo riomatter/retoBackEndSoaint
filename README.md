@@ -96,10 +96,10 @@ function fn() {
 
 ## Features implementados
 
-| Archivo Feature                | Descripción                             |
+| Archivo Feature                | Descripción                           |
 |------------------------------|-----------------------------------------|
-| CP01ListarUsuarios.feature   | Listar usuarios y validar errores       |
-| CP02ListarUsuariosID.feature | Obtener usuario por ID                  |
+| CP01ListarUsuarios.feature   | Listar usuarios y validar errores (GET) |
+| CP02ListarUsuariosID.feature | Obtener usuario por ID  (GET)           |
 | CP03RegistrarUsuario.feature | Registrar nuevo usuario (POST)          |
 | CP04ActualizarUsuario.feature| Actualizar usuario (PUT)                |
 | CP05EliminarUsuario.feature  | Eliminar usuario (DELETE)               |
